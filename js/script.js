@@ -1,1 +1,1 @@
-window.alert("bonjour");
+console.log("bonjour les cocos");
